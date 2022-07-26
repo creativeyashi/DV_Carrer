@@ -1,0 +1,33 @@
+.card-img0{
+    background: url("../../Images/img-1.jpg"); 
+    width: auto;
+    height: auto;
+    cursor: pointer;
+    margin-top: 5rem;
+    border-radius: 1.5rem;
+    align-items: center;
+    -webkit-box-shadow: -1px 9px 18px -5px rgb(109, 109, 109);
+    -moz-box-shadow: -1px 9px 18px -5px rgba(109, 109, 109);
+    box-shadow: -1px 9px 18px -5px rgba(109, 109, 109);
+    background-size: cover;
+
+}
+
+.title0{
+    font-size: 2rem;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: White;
+    margin-top: 2rem;
+}
+
+.button-style0{
+    margin-left: 35rem;
+    margin-bottom: 3rem;
+    padding: 1rem;
+    background-color: orange;
+    color: white;
+    font-weight: bold;
+    font-size: 1rem;
+    font-family: serif;
+}
